@@ -1,0 +1,22 @@
+.center{
+    text-align: center;
+}
+
+.size-img {
+    width: 20%;
+}
+
+.font-family{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.font-style{
+    font-style: italic;
+}
+
+.font-color{
+    color: white;
+}
+.bg-color{
+    background-color: #2c3e50;
+}
+
